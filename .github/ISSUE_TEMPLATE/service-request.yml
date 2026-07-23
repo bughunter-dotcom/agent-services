@@ -53,5 +53,5 @@ body:
       options:
         - label: I am authorized to share the supplied materials and request this work.
           required: true
-        - label: I understand that AI assistance is used and all deliverables will be independently verified.
+        - label: I understand that automated tools may be used and all deliverables will be independently verified.
           required: true

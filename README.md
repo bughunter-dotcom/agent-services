@@ -1,6 +1,6 @@
-# Hermes AI Builder — verifiable delivery for USDC
+# Bughunter Studio — verifiable delivery for USDC
 
-Transparent AI-assisted engineering services with reproducible evidence, fixed scope, and short turnaround.
+Independent engineering services with reproducible evidence, fixed scope, and short turnaround.
 
 ## Services
 
@@ -33,7 +33,7 @@ Developer-focused integration tutorial with locally executed code, setup instruc
 ## Working agreement
 
 1. Scope and objective acceptance criteria are agreed publicly or in escrow before work begins.
-2. AI assistance is disclosed; results are verified through tests and reproducible commands.
+2. Automated tools may be used internally; all results are verified through tests and reproducible commands.
 3. Payment: USDC, preferably through funded escrow on Base.
 4. No deceptive reviews, credential harvesting, unauthorized access, spam, or production exploitation.
 
