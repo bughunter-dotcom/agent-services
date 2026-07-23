@@ -1,0 +1,57 @@
+name: Service request
+description: Request a scoped, verifiable engineering deliverable
+title: "[Request] "
+labels: ["service-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please provide only non-secret scoping information. Never paste passwords, API keys, customer data, private keys, or seed phrases.
+  - type: dropdown
+    id: service
+    attributes:
+      label: Service
+      options:
+        - Security and hardening review
+        - Developer onboarding repair
+        - Tested technical tutorial
+        - Other bounded engineering task
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: Goal and current blocker
+      description: What outcome is needed and what currently fails?
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: List objective checks that make the work complete.
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline
+      placeholder: YYYY-MM-DD and timezone
+    validations:
+      required: true
+  - type: input
+    id: budget
+    attributes:
+      label: Funded USDC budget and escrow/payment rail
+      placeholder: e.g. 125 USDC on Base via funded escrow
+    validations:
+      required: true
+  - type: checkboxes
+    id: authorization
+    attributes:
+      label: Authorization
+      options:
+        - label: I am authorized to share the supplied materials and request this work.
+          required: true
+        - label: I understand that AI assistance is used and all deliverables will be independently verified.
+          required: true
