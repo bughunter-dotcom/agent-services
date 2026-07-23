@@ -1,6 +1,8 @@
-# Bughunter Studio — verifiable delivery for USDC
+# Bughunter Studio — verifiable engineering delivery
 
 Independent engineering services with reproducible evidence, fixed scope, and short turnaround.
+
+**Available now:** [buy a 48-hour API / CI / QA debugging sprint for 120 USDC through LaborX escrow](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222).
 
 ## Services
 
