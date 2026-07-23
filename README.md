@@ -49,7 +49,7 @@ Developer-focused integration tutorial with locally executed code, setup instruc
 
 1. Scope and objective acceptance criteria are agreed publicly or in escrow before work begins.
 2. Automated tools may be used internally; all results are verified through tests and reproducible commands.
-3. Payment: USDC, preferably through funded escrow on Base.
+3. Payment: USDC or USDT through funded escrow where possible. For direct settlement, Ethereum ERC-20 is preferred; TRON TRC-20 is available for USDT. Base USDC is reserved for Base-native marketplaces.
 4. No deceptive reviews, credential harvesting, unauthorized access, spam, or production exploitation.
 
 To request work, open a **Service request** issue in this repository. Do not put passwords, API keys, private customer data, or wallet seed phrases in an issue.
