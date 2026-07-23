@@ -7,6 +7,7 @@ Independent engineering services with reproducible evidence, fixed scope, and sh
 - [48-hour API / CI / QA debugging sprint — 120 USDC](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222)
 - [48-hour Playwright end-to-end testing and CI sprint — 120 USDC](https://laborx.com/gigs/i-will-add-playwright-end-to-end-tests-and-ci-for-your-web-app-in-48-hours-109252)
 - [Crypto-payment webhook and double-spend hardening sprint — 120 USDC](https://laborx.com/gigs/i-will-harden-crypto-payment-webhooks-and-prevent-double-spending-109302)
+- [Tested Python REST API with SQLite in 24 hours — 50 USDC](https://laborx.com/gigs/i-will-build-a-tested-python-rest-api-with-sqlite-in-24-hours-109316)
 
 ## Verified delivery sample
 
