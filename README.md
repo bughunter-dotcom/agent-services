@@ -7,6 +7,10 @@ Independent engineering services with reproducible evidence, fixed scope, and sh
 - [48-hour API / CI / QA debugging sprint — 120 USDC](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222)
 - [48-hour Playwright end-to-end testing and CI sprint — 120 USDC](https://laborx.com/gigs/i-will-add-playwright-end-to-end-tests-and-ci-for-your-web-app-in-48-hours-109252)
 
+## Verified delivery sample
+
+- [Playwright E2E and CI sample](https://github.com/bughunter-dotcom/playwright-ci-sample) — two executable Chromium tests, isolated fixtures, a clean local server, a CI workflow template, and a delivery report. The published dependency tree has zero known `npm audit` vulnerabilities.
+
 ## Services
 
 ### 48-hour security and hardening review — 100 USDC
