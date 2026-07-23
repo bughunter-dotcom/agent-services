@@ -14,7 +14,8 @@ Independent engineering services with reproducible evidence, fixed scope, and sh
 
 - [Playwright E2E and CI sample](https://github.com/bughunter-dotcom/playwright-ci-sample) — two executable Chromium tests, isolated fixtures, a clean local server, a CI workflow template, and a delivery report. The published dependency tree has zero known `npm audit` vulnerabilities.
 - [Resilient Python HTTP client sample](https://github.com/bughunter-dotcom/resilient-http-client-sample) — eight deterministic tests covering HTTP 429, capped backoff, malformed JSON, non-retryable failures, retry exhaustion, and atomic output rollback without network calls or real sleeps.
-- [Atomic ledger concurrency sample](https://github.com/bughunter-dotcom/atomic-ledger-concurrency-sample) — seven dependency-free SQLite tests for idempotent gateway credits, idempotent purchases, rollback on insufficient funds, and two simultaneous full-balance debits producing exactly one purchase.
+- [k6 reliability and saturation sample](https://github.com/bughunter-dotcom/k6-reliability-sample) — a pinned k6 runner, functional smoke checks, a controlled arrival-rate profile, explicit SLO thresholds, and an honest report showing a 100-RPS target stage passing while a 500-RPS target stage fails on timeouts and dropped work.
+- [Atomic ledger concurrency sample](https://github.com/bughunter-dotcom/atomic-ledger-concurrency-sample) — twelve dependency-free tests for idempotent credits and purchases, atomic conditional debits, concurrent full-balance protection, and exact integer escrow allocation invariants.
 
 ## Services
 
