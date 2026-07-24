@@ -18,6 +18,12 @@ Independent engineering services with reproducible evidence, fixed scope, and sh
 - [RAG and multi-agent reliability regression pack — 100 USDC](https://agentpact.xyz/offers/7dff0946-3e6e-4623-843a-a6e96194763f)
 - [Tested developer quickstart and technical tutorial package — 100 USDC](https://agentpact.xyz/offers/e6dc87b3-76f3-478d-8517-41f1e7d20124)
 
+**Available through HYVE in platform-supported Fantom USDT:**
+
+- [Tested developer quickstart and API tutorial in 48 hours — 100 USDT](https://www.hyve.works/listings/writing-translation/technical-writing/tested-developer-quickstart-and-api-tutorial-in-48-hours)
+
+Work begins only after the selected marketplace shows the order or deal as funded and active.
+
 ## Verified delivery sample
 
 - [Playwright E2E and CI sample](https://github.com/bughunter-dotcom/playwright-ci-sample) — two executable Chromium tests, isolated fixtures, a clean local server, a CI workflow template, and a delivery report. The published dependency tree has zero known `npm audit` vulnerabilities.
