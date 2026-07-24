@@ -22,6 +22,8 @@ Independent engineering services with reproducible evidence, fixed scope, and sh
 
 - [Tested developer quickstart and API tutorial in 48 hours — 100 USDT](https://www.hyve.works/listings/writing-translation/technical-writing/tested-developer-quickstart-and-api-tutorial-in-48-hours)
 - [Two Playwright E2E tests and CI evidence in 48 hours — 100 USDT](https://www.hyve.works/listings/programming-tech/qa-review/i-will-add-two-playwright-e2e-tests-and-ci-evidence-in-48-hours)
+- [One CI failure diagnosis and reproducible fix plan in 24 hours — 20 USDT](https://www.hyve.works/listings/programming-tech/qa-review/i-will-diagnose-one-ci-failure-and-deliver-a-reproducible-fix-plan-in-24-hours)
+- [RAG and AI-agent reliability regression pack in 48 hours — 100 USDT](https://www.hyve.works/listings/programming-tech/qa-review/i-will-build-a-rag-and-ai-agent-reliability-regression-pack-in-48-hours)
 
 Work begins only after the selected marketplace shows the order or deal as funded and active.
 
